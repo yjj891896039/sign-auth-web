@@ -1,6 +1,6 @@
-//pc端入口文件
+//h5端入口文件
 import Vue from 'vue'
-import App from './App.vue'
+import App from './pages/editInfo.vue'
 import router from './router'
 import request from "@/api/request";
 
